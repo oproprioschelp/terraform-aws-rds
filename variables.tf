@@ -7,5 +7,4 @@ variable "username" {}
 variable "password" {}
 variable "parameter_group_name" {}
 variable "skip_final_snapshot" {}
-
-
+variable "db_subnet" {}
